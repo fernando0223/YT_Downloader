@@ -1,5 +1,6 @@
 # YT_Downloader
-Este é um aplicativo desktop simples e eficiente desenvolvido em Python para baixar vídeos ou extrair áudios do YouTube. Com uma interface amigável criada usando PySimpleGUI, o programa permite que os usuários escolham a resolução, o formato de saída (MP4 ou MP3).
+Este projeto foi desenvolvido por mim com o objetivo de ser uma solução simples e eficiente para o download de conteúdo do YouTube.
+Um aplicativo desktop simples e eficiente desenvolvido em Python para baixar vídeos ou extrair áudios do YouTube. Com uma interface amigável criada usando PySimpleGUI, o programa permite que os usuários escolham a resolução, o formato de saída (MP4 ou MP3).
 
 ## Funcionalidades:
 Baixar vídeos do YouTube em diferentes resoluções: 360p, 720p, 1080p, entre outras.
@@ -25,7 +26,7 @@ Clique em "Download" para iniciar o processo.
 Após o download, os arquivos serão armazenados na pasta padrão configurada no código.
 
 ## Créditos:
-Este projeto foi desenvolvido por mim. com o objetivo de ser uma solução simples e eficiente para o download de conteúdo do YouTube.
+Este projeto foi desenvolvido por mim com o objetivo de ser uma solução simples e eficiente para o download de conteúdo do YouTube.
 Site oficial: https://ffmpeg.org
 Repositório oficial: https://github.com/PySimpleGUI/PySimpleGUI
 Repositório oficial: https://github.com/pytube/pytube
