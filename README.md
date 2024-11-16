@@ -32,4 +32,4 @@ Repositório oficial: https://github.com/pytube/pytube
 
 
 ### Link Download:
-Divre: https://drive.google.com/drive/folders/16x6XdD2gcbgRY2gy56NOLARk7Znks8IJ?usp=sharing
+https://drive.google.com/file/d/1jekD3EK-1X1GxU6RtS4mwZCycZ0UbW0z/view?usp=sharing
