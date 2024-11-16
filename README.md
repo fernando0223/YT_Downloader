@@ -26,7 +26,6 @@ Clique em "Download" para iniciar o processo.
 Após o download, os arquivos serão armazenados na pasta padrão configurada no código.
 
 ## Créditos:
-Este projeto foi desenvolvido por mim com o objetivo de ser uma solução simples e eficiente para o download de conteúdo do YouTube.
 Site oficial: https://ffmpeg.org
 Repositório oficial: https://github.com/PySimpleGUI/PySimpleGUI
 Repositório oficial: https://github.com/pytube/pytube
